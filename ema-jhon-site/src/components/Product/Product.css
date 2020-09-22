@@ -1,0 +1,17 @@
+.product-container{
+    border-bottom: 1px solid lightgray;
+    padding: 5px;
+}
+.product-container h5{
+    color: blue;
+}
+.main-btn{
+    width: 150px;
+    color: white;
+    padding: 5px;
+    background-color: goldenrod;
+    border: none;
+}
+.pd-img{
+    text-align: center;
+}
